@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.cs.cs271.lab2.TestSearch" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-25T13:38:38" hostname="elenamurphy-lab002-5380897" time="0.002">
+  <properties/>
+  <testcase name="testFindPositionArray10f" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.001"/>
+  <testcase name="testFindPositionArray10s" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindPositionArray0" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
