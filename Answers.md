@@ -13,7 +13,7 @@ If the array is not sorted, the binary search could eliminate the half of the ar
 To make sure none of the arguments are null, which would ruin the tests.
 
 
-## What is the purpose of using the keyword `final` with variables and arguments?
+### What is the purpose of using the keyword `final` with variables and arguments?
 
 To ensure the variables don't change when they are being used so often.
 
