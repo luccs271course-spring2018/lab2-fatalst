@@ -19,7 +19,7 @@ public class TestTeam {
     }
   }
   
-  // TODO testConstructorValidHeadcoach
+  // DONE testConstructorValidHeadcoach
   @Test
   public void testConstructorValidHeadcoach() {
     try {
@@ -30,7 +30,7 @@ public class TestTeam {
     }
   }
   
-  // TODO testConstructorValidFunding
+  // DONE testConstructorValidFunding
   @Test
   public void testConstructorValidFunding() {
     try {
@@ -48,7 +48,7 @@ public class TestTeam {
     assertEquals(name, t.getName());
   }
   
-  // TODO testGetHeadcoach
+  // DONE testGetHeadcoach
   @Test
   public void testGetHeadcoach() {
     final String headcoach = "Klinsmann";
@@ -56,7 +56,7 @@ public class TestTeam {
     assertEquals(headcoach, t.getHeadcoach());
   }
   
-  // TODO testGetFunding
+  // DONE testGetFunding
   @Test
   public void testGetFunding() {
     final int funding = 500;

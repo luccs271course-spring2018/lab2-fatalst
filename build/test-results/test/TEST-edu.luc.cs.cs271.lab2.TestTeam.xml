@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.luc.cs.cs271.lab2.TestTeam" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-09-25T13:38:38" hostname="elenamurphy-lab002-5380897" time="0.003">
+<testsuite name="edu.luc.cs.cs271.lab2.TestTeam" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-09-26T00:12:23" hostname="elenamurphy-lab002-5380897" time="0.007">
   <properties/>
   <testcase name="testConstructorValidName" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.001"/>
   <testcase name="testGetName" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.0"/>
   <testcase name="testConstructorValidFunding" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.0"/>
-  <testcase name="testGetFunding" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.001"/>
+  <testcase name="testGetFunding" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.0"/>
   <testcase name="testConstructorValidHeadcoach" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.0"/>
   <testcase name="testGetHeadcoach" classname="edu.luc.cs.cs271.lab2.TestTeam" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
